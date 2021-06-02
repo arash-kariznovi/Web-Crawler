@@ -2,7 +2,7 @@
 A simple python web crawler - developed in Python using Scrapy
 
 
-clone th project
+clone the project
 
 cd to Edinburgh
 
